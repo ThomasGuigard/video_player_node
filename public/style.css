@@ -1,0 +1,21 @@
+.fullscreen{
+  width: 100%;
+  height:100%;
+}
+
+.divB{
+  position: relative;
+}
+
+.lecteur{
+  background-color: black;
+  overflow: hidden;
+}
+
+.sequence{
+  width: 95%;
+}
+
+.films{
+  display: -webkit-inline-box;
+}
